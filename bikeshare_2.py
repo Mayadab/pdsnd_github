@@ -1,6 +1,8 @@
 import time
 import pandas as pd
 import numpy as np
+#Change 5
+#Change 6
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
